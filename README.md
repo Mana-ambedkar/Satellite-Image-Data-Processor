@@ -16,6 +16,5 @@ The output will pop up in a window displaying:
 1. Original grayscale image with colorbar showing pixel intensity.
 2. A histogram graph showing the distribution of pixel brightness values.
 
-Image used - taken by NASA- ![satellite_sample](https://github.com/user-attachments/assets/91d3cfef-6446-4321-9d82-7f127e0202f9)
-
+credit - Image used are taken by NASA
 
